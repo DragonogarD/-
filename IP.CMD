@@ -1,0 +1,1 @@
+netsh interface ip set address name="本地连接 2" source=dhcp
